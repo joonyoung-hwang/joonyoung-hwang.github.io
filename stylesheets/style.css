@@ -364,7 +364,7 @@ min-width:48px;
 color:#aaa;/*was 2f4765*/
 background:#aaa url("images/corner.gif") no-repeat right bottom;/*was fefefe */
 text-align:center;
-font-size:x-small;
+font-size:medium;
 }
 div.datetime div.top p{
 background:url("images/caltop1b.gif") no-repeat 50% 0;
