@@ -68,7 +68,6 @@ body{
     text-align: center;
 
     -webkit-animation: fadein 7s; /* Safari and Chrome */
-	-webkit-transition-delay: 20s;
        -moz-animation: fadein 7s; /* Firefox */
         -ms-animation: fadein 7s; /* Internet Explorer */
          -o-animation: fadein 7s; /* Opera */
