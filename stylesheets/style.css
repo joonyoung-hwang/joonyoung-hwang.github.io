@@ -64,15 +64,15 @@ body{
 
 #navigation p4{
     margin-top: 25px;
-    font-size: 50px;
+    font-size: 21px;
     text-align: center;
 
-    -webkit-animation: fadein 5s; /* Safari and Chrome */
-	-webkit-transition-delay: 15s;
-       -moz-animation: fadein 20s; /* Firefox */
-        -ms-animation: fadein 20s; /* Internet Explorer */
-         -o-animation: fadein 20s; /* Opera */
-            animation: fadein 20s;
+    -webkit-animation: fadein 7s; /* Safari and Chrome */
+	-webkit-transition-delay: 20s;
+       -moz-animation: fadein 7s; /* Firefox */
+        -ms-animation: fadein 7s; /* Internet Explorer */
+         -o-animation: fadein 7s; /* Opera */
+            animation: fadein 7s;
 }
 
 @keyframes fadein {
