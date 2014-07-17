@@ -17,16 +17,18 @@ body{
 
 	#navigation{
 	background-color: #FFFFFF;
-	color: #fffff0;
-	text-align: center;
+	color: #ed7d31;
+	text-align: right;
 	
 }
-	
+#navigation a:hover{
+color: #ffc000;
+}	
 #navigation p1{
     margin-top: 25px;
     font-size: 21px;
     text-align: center;
-
+color:#ed7d31
     -webkit-animation: fadein 1s; /* Safari and Chrome */
        -moz-animation: fadein 1s; /* Firefox */
         -ms-animation: fadein 1s; /* Internet Explorer */
@@ -40,7 +42,7 @@ body{
 	margin-right: 5px;
     font-size: 21px;
     text-align: center;
-
+color:#ed7d31
     -webkit-animation: fadein 3s; /* Safari and Chrome */
        -moz-animation: fadein 3s; /* Firefox */
         -ms-animation: fadein 3s; /* Internet Explorer */
@@ -54,7 +56,7 @@ body{
 	margin-right: 10px;
     font-size: 21px;
     text-align: center;
-
+color:#ed7d31
     -webkit-animation: fadein 5s; /* Safari and Chrome */
        -moz-animation: fadein 5s; /* Firefox */
         -ms-animation: fadein 5s; /* Internet Explorer */
@@ -66,13 +68,41 @@ body{
     margin-top: 25px;
     font-size: 21px;
     text-align: center;
-
+color:#ed7d31
     -webkit-animation: fadein 7s; /* Safari and Chrome */
        -moz-animation: fadein 7s; /* Firefox */
         -ms-animation: fadein 7s; /* Internet Explorer */
          -o-animation: fadein 7s; /* Opera */
             animation: fadein 7s;
 }
+
+
+
+
+#navigation a{
+	background-color: #FFFFFF;
+	margin-left: 5px;
+	display: inline;
+	width: auto;
+	margin-right: 5px;
+	padding: 0px 0px 0px 40px;
+	color: #ed7d31;
+	text-decoration: none;
+}
+
+#navigation b{
+
+	background-color: #FFFFFF;
+	margin-left: 5px;
+	display: inline;
+	width: auto;
+	margin-right: 5px;
+	padding: 0px 0px 0px 40px;
+	color: #ed7d31;
+	text-decoration: none;
+}
+
+
 
 @keyframes fadein {
     from { opacity: 0; }
@@ -153,7 +183,7 @@ background: url("/images/longbar.gif");
 	font-weight: bold;
 	font-size: 24px;
 	color: white;
-	background-color: #33CCFF;
+	background-color: #ed7d31;
 	padding-left: 10px;
 	padding-bottom:2px;
 	padding-top:2px;
@@ -164,7 +194,7 @@ background: url("/images/longbar.gif");
 	width: auto;
 	font-weight: bold;
 	font-size: 16px;
-	color: #33CCFF;
+	color: #ed7d31;
 	padding-left: 10px;
 }
 #text h3{	
@@ -174,7 +204,7 @@ font-family: 'AldotheApache',helvetica, arial;
 	font-weight: bold;
 	font-size: 30px;
 	color: white;
-	background-color: #33CCFF;
+	background-color: #ed7d31;
 	padding-left: 10px;
 	padding-bottom:2px;
 	padding-top:2px;
@@ -343,7 +373,7 @@ p{
 /DateTime Stamp formatting
 /*****************/
 .date{
-	color:#999;
+	color:#ffc000;
 	font-size:medium;
 	width:60px;
 	left:10px;
@@ -463,7 +493,7 @@ width: 150px;
 	font-size: 12px;
 	height: 38px;
 	color: white;
-	background-color: #33CCFF;
+	background-color: #ed7d31;
 	text-align: center;
 	margin-top: 20px;
 
