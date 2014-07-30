@@ -501,6 +501,16 @@ p{
     color:#000; 
     background:#fff;
     }
+	
+	#container a.gallery:hover img {
+    border:1px solid #fff; 
+    float:left; 
+    margin-right:5px;
+    }
+	
+	#container a.slideb:hover img, #container a.slidei:hover img {
+    float:right;
+    }
 /******************
 /IMAGES
 /*****************/
