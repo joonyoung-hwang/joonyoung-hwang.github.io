@@ -401,10 +401,7 @@ p{
     background:#fff;
     }
 	
-/* change the thumbnail border color */
-#container a.gallery:hover {
-    border:1px solid #fff; 
-    }
+
 
 /* Adding the thumbnail images */
 #container a.gallery, #container a.gallery:visited {
@@ -487,6 +484,11 @@ p{
     background:url(../images/p12_t.jpg); 
     height:60px; 
     width:93px;
+    }
+	
+	/* change the thumbnail border color */
+#container a.gallery:hover {
+    border:1px solid #fff; 
     }
 /******************
 /IMAGES
