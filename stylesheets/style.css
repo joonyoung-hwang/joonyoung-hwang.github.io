@@ -373,7 +373,7 @@ p{
 /*****************/
 #images-box {
     /* The total width of the image-box, mainly for centering */
-    width: 850px;
+    width: 875px;
     margin: 0px auto;
     position: relative;
     top: 70px;
