@@ -401,7 +401,10 @@ p{
     background:#fff;
     }
 	
-
+/* change the thumbnail border color */
+#container a.gallery:hover {
+    border:1px solid #fff; 
+    }
 
 /* Adding the thumbnail images */
 #container a.gallery, #container a.gallery:visited {
