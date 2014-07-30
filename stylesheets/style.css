@@ -368,6 +368,17 @@ p{
   font-size: 0.95em;
 }
 
+
+
+/* The containing box for the gallery. */
+#container {
+    position:relative; 
+    width:770px; 
+    height:396px; 
+    margin:20px auto 0 auto; 
+    border:1px solid #aaa; 
+    }
+
 /******************
 /IMAGES
 /*****************/
