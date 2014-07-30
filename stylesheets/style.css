@@ -490,6 +490,17 @@ p{
 #container a.gallery:hover {
     border:1px solid #fff; 
     }
+	
+	/* styling the :hover span */
+#container a.gallery:hover span {
+    position:absolute; 
+    width:372px; 
+    height:372px; 
+    top:10px; 
+    left:75px; 
+    color:#000; 
+    background:#fff;
+    }
 /******************
 /IMAGES
 /*****************/
