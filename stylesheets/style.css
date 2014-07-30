@@ -378,6 +378,12 @@ p{
     margin:20px auto 0 auto; 
     border:1px solid #aaa; 
     }
+/* Removing the list bullets and indentation */
+#container ul {
+    padding:0; 
+    margin:0; 
+    list-style-type:none; 
+    }
 
 /******************
 /IMAGES
