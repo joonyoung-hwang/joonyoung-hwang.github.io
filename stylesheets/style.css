@@ -463,8 +463,8 @@ div[id^=image]:target .expand {
     display: none;
 }
  
-/***div#image-1:target, div#image-2:target, div#image-3:target, div#image-4:target, div#image-5:target, div#image-6:target, div#image-7:target, div#image-8:target, div#image-9:target { left: 200px; }
- ***/
+div#image-1:target, div#image-2:target, div#image-3:target, div#image-4:target, div#image-5:target, div#image-6:target, div#image-7:target, div#image-8:target, div#image-9:target { left: 200px; }
+ 
 div#image-1 { left: 0; }
 div#image-2 { left: 33%; }
 div#image-3 { left: 66%; }
