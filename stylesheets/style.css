@@ -463,11 +463,17 @@ div[id^=image]:target .expand {
     display: none;
 }
  
-div#image-1:target, div#image-2:target, div#image-3:target { left: 200px; }
+div#image-1:target, div#image-2:target, div#image-3:target, div#image-4:target, div#image-5:target, div#image-6:target, div#image-7:target, div#image-8:target, div#image-9:target { left: 200px; }
  
 div#image-1 { left: 0; }
-div#image-2 { left: 290px; }
-div#image-3 { left: 580px; }
+div#image-2 { left: 33%; }
+div#image-3 { left: 66%; }
+div#image-4 { top: 33% left: 0; }
+div#image-5 { top: 33% left: 33%; }
+div#image-6 { top: 33% left: 66%; }
+div#image-7 { top: 66% left: 0; }
+div#image-8 { top: 66% left: 33%; }
+div#image-9 { top: 66% left: 66%; }
 
 
 /******************
