@@ -384,7 +384,16 @@ p{
     margin:0; 
     list-style-type:none; 
     }
-
+/* Remove the images and text from sight */
+#container a.gallery span {
+    position:absolute; 
+    width:1px; 
+    height:1px; 
+    top:5px; 
+    left:5px; 
+    overflow:hidden; 
+    background:#fff;
+    }
 /******************
 /IMAGES
 /*****************/
