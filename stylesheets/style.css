@@ -377,6 +377,7 @@ p{
     margin: 0px auto;
     position: relative;
     top: 70px;
+	bottom: 70px;
 }
  
 .image-lightbox img {
