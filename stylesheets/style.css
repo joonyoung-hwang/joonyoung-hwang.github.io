@@ -468,12 +468,12 @@ div#image-1:target, div#image-2:target, div#image-3:target, div#image-4:target, 
 div#image-1 { left: 0; }
 div#image-2 { left: 33%; }
 div#image-3 { left: 66%; }
-div#image-4 { top: 33% left: 0; }
-div#image-5 { top: 33% left: 33%; }
-div#image-6 { top: 33% left: 66%; }
-div#image-7 { top: 66% left: 0; }
-div#image-8 { top: 66% left: 33%; }
-div#image-9 { top: 66% left: 66%; }
+div#image-4 { top: 33%; left: 0; }
+div#image-5 { top: 33%; left: 33%; }
+div#image-6 { top: 33%; left: 66%; }
+div#image-7 { top: 66%; left: 0; }
+div#image-8 { top: 66%; left: 33%; }
+div#image-9 { top: 66%; left: 66%; }
 
 
 /******************
@@ -595,7 +595,7 @@ width: 150px;
  /Style the footer
  /***************/
 #footer{
-	position:absolute;
+	position:relative;
 	width: auto;
 	font-size: 12px;
 	height: 38px;
