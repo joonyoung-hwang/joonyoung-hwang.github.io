@@ -595,7 +595,7 @@ width: 150px;
  /Style the footer
  /***************/
 #footer{
-	position:relative;
+	position:absolute;
 	width: auto;
 	font-size: 12px;
 	height: 38px;
