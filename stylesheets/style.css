@@ -493,7 +493,7 @@ p{
 	
 	/* styling the :hover span */
 #container a.gallery:hover span {
-    position:absolute; 
+    position:relative; 
     width:372px; 
     height:372px; 
     top:10px; 
